@@ -69,7 +69,7 @@ func main() {
 
 /*
 
-BOAS PRÁTICAS??????
+BOAS PRÁTICAS??
 
 Trabalhamos apenas com constantes a nível de pacote.
 
